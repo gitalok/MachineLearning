@@ -24,5 +24,9 @@ https://machinelearningmastery.com/confusion-matrix-machine-learning/
 
 https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
+# Logistic regression
+https://github.com/gitalok/MachineLearning/tree/master/Logistic%20Regression
+https://github.com/gitalok/MachineLearning/tree/master/Logistic%20Regression/Project
+
 # Decision Tree and Random Forest
 https://github.com/gitalok/MachineLearning/tree/master/Decision%20Tree%20and%20Random%20Forest
