@@ -11,6 +11,7 @@ https://machinelearningmastery.com/classification-versus-regression-in-machine-l
 https://github.com/gitalok/MachineLearning/tree/master/Pandas%20Notebook
 
 # Exploratory Data Analysis
+https://github.com/gitalok/MachineLearning/tree/master/EDA
 
 # Data cleaning
 
