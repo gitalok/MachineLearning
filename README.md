@@ -18,7 +18,7 @@ https://github.com/gitalok/MachineLearning/tree/master/EDA
 # Classification Report
 
 # Confusion Matrix
-https://en.wikipedia.org/wiki/Confusion_matrix
+https://en.wikipedia.org/wiki/Confusion_matrix 
 https://machinelearningmastery.com/confusion-matrix-machine-learning/
 https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
