@@ -24,6 +24,11 @@ https://machinelearningmastery.com/confusion-matrix-machine-learning/
 
 https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
+# Data visulization
+
+Seaborn: https://github.com/gitalok/MachineLearning/tree/master/Data%20Visulization/Seaborn
+Matplotlib:
+
 # Logistic regression
 https://github.com/gitalok/MachineLearning/tree/master/Logistic%20Regression
 https://github.com/gitalok/MachineLearning/tree/master/Logistic%20Regression/Project
