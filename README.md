@@ -8,6 +8,13 @@ http://media.sundog-soft.com/Udemy/DataScienceSlides.pdf
 https://machinelearningmastery.com/classification-versus-regression-in-machine-learning/
 
 # Quick handson Pandas
+https://github.com/gitalok/MachineLearning/tree/master/Pandas%20Notebook
+
+# Exploratory Data Analysis
+
+# Data cleaning
+
+# Classification Report
 
 # Decision Tree and Random Forest
-https://github.com/gitalok/MachineLearning/blob/master/Decision%20Tree%20and%20Random%20Forest/Decision%20Trees%20and%20Random%20Forest%20Project%20-%20Solutions.md
+https://github.com/gitalok/MachineLearning/tree/master/Decision%20Tree%20and%20Random%20Forest
